@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1_Form", "GeekBrainsCSharp_1\Lesson_1_Form.csproj", "{AF874CB2-7B9A-468C-9083-C042F8ADE5DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF874CB2-7B9A-468C-9083-C042F8ADE5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF874CB2-7B9A-468C-9083-C042F8ADE5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF874CB2-7B9A-468C-9083-C042F8ADE5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF874CB2-7B9A-468C-9083-C042F8ADE5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD5783C-71B7-40E2-BB54-86AE9503F849}
+	EndGlobalSection
+EndGlobal
