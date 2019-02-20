@@ -5,6 +5,18 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1_Form", "GeekBrainsCSharp_1\Lesson_1_Form.csproj", "{AF874CB2-7B9A-468C-9083-C042F8ADE5DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1_WeigthIndex", "Lesson_1_WeigthIndex\Lesson_1_WeigthIndex.csproj", "{55D5632E-E9B1-41F9-BF0A-97049F31CDFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1_Graphic", "Graphic\Lesson_1_Graphic.csproj", "{68CF58ED-4412-42E8-B0FF-D65C83F0C8C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1_GraphMethod", "GraphMethod\Lesson_1_GraphMethod.csproj", "{8642C418-11F7-4D19-B720-FC7B3753DD7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1_ExchangValues", "ExchangValues\Lesson_1_ExchangValues.csproj", "{1EC84650-2BA4-4EBE-9641-447FA62BC9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1_ExchOutTemp", "Lesson_1_ExchValMethod\Lesson_1_ExchOutTemp.csproj", "{6BDDF9DC-4F76-41B8-96B4-F7C6DB863B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{476DF5ED-87B7-4742-AA51-BA1963682BC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +27,30 @@ Global
 		{AF874CB2-7B9A-468C-9083-C042F8ADE5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF874CB2-7B9A-468C-9083-C042F8ADE5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF874CB2-7B9A-468C-9083-C042F8ADE5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D5632E-E9B1-41F9-BF0A-97049F31CDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D5632E-E9B1-41F9-BF0A-97049F31CDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D5632E-E9B1-41F9-BF0A-97049F31CDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D5632E-E9B1-41F9-BF0A-97049F31CDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CF58ED-4412-42E8-B0FF-D65C83F0C8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CF58ED-4412-42E8-B0FF-D65C83F0C8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CF58ED-4412-42E8-B0FF-D65C83F0C8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CF58ED-4412-42E8-B0FF-D65C83F0C8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8642C418-11F7-4D19-B720-FC7B3753DD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8642C418-11F7-4D19-B720-FC7B3753DD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8642C418-11F7-4D19-B720-FC7B3753DD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8642C418-11F7-4D19-B720-FC7B3753DD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC84650-2BA4-4EBE-9641-447FA62BC9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC84650-2BA4-4EBE-9641-447FA62BC9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC84650-2BA4-4EBE-9641-447FA62BC9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC84650-2BA4-4EBE-9641-447FA62BC9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDDF9DC-4F76-41B8-96B4-F7C6DB863B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDDF9DC-4F76-41B8-96B4-F7C6DB863B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDDF9DC-4F76-41B8-96B4-F7C6DB863B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDDF9DC-4F76-41B8-96B4-F7C6DB863B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476DF5ED-87B7-4742-AA51-BA1963682BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476DF5ED-87B7-4742-AA51-BA1963682BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476DF5ED-87B7-4742-AA51-BA1963682BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476DF5ED-87B7-4742-AA51-BA1963682BC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
